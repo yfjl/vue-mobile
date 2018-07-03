@@ -1,0 +1,14 @@
+{
+	"presets": [
+    ["env", {
+    
+			"modules": false,
+			"debug": false,
+      "include": [],
+      "useBuiltIns": true
+		}],
+		"stage-0",
+		"flow"
+  ],
+
+}
